@@ -1,2 +1,2 @@
-# Password-checker-
-Simple python tool to check password strength 
+# Password-checker
+Simple python tool to check password strength.
